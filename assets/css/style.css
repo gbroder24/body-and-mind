@@ -1,10 +1,18 @@
-/* Asterisk wildcard selector to overide default styles added by the browser*/
+/* Asterisk wildcard selector to overide default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-boxgit status;
 }
 
+/* General styles*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*Generic project styles*/
+    background-color: #dcf0fa;
+}
 
 /* Header */
 header {
@@ -14,6 +22,8 @@ header {
 /* Main Content */
 main {
     background-color: lightblue;
+    /* Make main element take up surplus space and push footer down */
+    flex: 1 0 auto;
 }
 
 /* Footer */
