@@ -28,9 +28,17 @@ header {
     box-shadow: 0 2px 2px #aaaaaa;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Heading */
 h1 {
     font-family: 'Arapey', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #141313;
 }
 
 /* Main Content */
