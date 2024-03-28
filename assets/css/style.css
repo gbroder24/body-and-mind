@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     /*Generic project styles*/
     background-color: #dcf0fa;
+    font-family: 'Sintony', sans-serif;
 }
 
 /* Header */
