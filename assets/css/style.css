@@ -5,7 +5,7 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-boxgit status;
+    box-sizing: border-box;
 }
 
 /* General styles*/
@@ -53,6 +53,17 @@ h1 {
 
 .active {
     border-bottom: 1px solid #141313;
+}
+
+/* Nav bar styles for dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    box-shadow: 0 2px 2px #aaaaaa;
+    padding: 0 1rem;
+    display: none;
 }
 
 /* Main Content */
