@@ -18,6 +18,13 @@ body {
     font-family: 'Sintony', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Arapey', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #141313;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -34,14 +41,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-/* Heading */
-h1 {
-    font-family: 'Arapey', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    color: #141313;
 }
 
 #menu {
@@ -95,6 +94,25 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+
+    background-color: rgba(100, 105, 150, 0.7);
+    font-size: 120%;
+    position: absolute;
+    margin-left: 20px;
+    bottom: 30px;
+    width: 85%;
+    min-height: 150px;
+    padding: 15px;
+}
+
+#cover-text > h2, 
+#cover-text > h3 {
+    color: #141313;
+
 }
 
 /* Footer */
@@ -147,8 +165,10 @@ main {
         margin-top: 75px;
     }
 
-    #hero {
-        height: 800px;
+    #cover-text {
+        width: 280px;
+        right: 250px;
+        padding: 20px;
     }
 }
 
@@ -159,6 +179,10 @@ main {
     }
 
     #hero {
-        height: 800px;
+        height: 600px;
+    }
+
+    #cover-text {
+        bottom: 100px;
     }
 }
