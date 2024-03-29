@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-/* General styles*/
+/* General styles */
 body {
     min-height: 100vh;
     display: flex;
@@ -70,7 +70,7 @@ nav {
     top: 100%;
 }
 
-/* Nav toggle*/
+/* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
 }
@@ -117,5 +117,17 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    #logo {
+        font-size: 300%;
+        letter-spacing: 2px;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main content push down under bigger header */
+    main {
+        margin-top: 75px;
     }
 }
