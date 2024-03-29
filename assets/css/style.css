@@ -131,3 +131,10 @@ footer {
         margin-top: 75px;
     }
 }
+
+/* Meadia query: laptops and upwards (992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #1f1e1e;
+    }
+}
