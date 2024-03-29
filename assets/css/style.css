@@ -85,10 +85,16 @@ nav {
 
 /* Main Content */
 main {
-    background-color: lightblue;
     /* Make main element take up surplus space and push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero.webp") no-repeat center center/cover;
 }
 
 /* Footer */
@@ -140,11 +146,19 @@ main {
     main {
         margin-top: 75px;
     }
+
+    #hero {
+        height: 800px;
+    }
 }
 
 /* Meadia query: laptops and upwards (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #1f1e1e;
+    }
+
+    #hero {
+        height: 800px;
     }
 }
