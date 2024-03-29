@@ -14,18 +14,18 @@ body {
     display: flex;
     flex-direction: column;
     /*Generic project styles*/
-    background-color: #dcf0fa;
+    color: #1f1e1e;
     font-family: 'Sintony', sans-serif;
 }
 
 /* Header */
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #aaaaaa;
+    box-shadow: 0 2px 2px #1f1e1e;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -40,7 +40,7 @@ header a {
 h1 {
     font-family: 'Arapey', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 0.5px;
     color: #141313;
 }
 
@@ -55,7 +55,7 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid #141313;
+    border-bottom: 1px solid #1f1e1e;
 }
 
 /* Nav bar styles for dropdown toggle */
@@ -64,7 +64,7 @@ nav {
     background-color: #ffffff;
     width: 100%;
     left: 0;
-    box-shadow: 0 2px 2px #aaaaaa;
+    box-shadow: 0 2px 2px #1f1e1e;
     padding: 0 1rem;
     display: none;
     top: 100%;
@@ -88,6 +88,7 @@ main {
     background-color: lightblue;
     /* Make main element take up surplus space and push footer down */
     flex: 1 0 auto;
+    margin-top: 45px;
 }
 
 /* Footer */
