@@ -112,7 +112,38 @@ main {
 #cover-text > h2, 
 #cover-text > h3 {
     color: #141313;
+}
 
+/*Reasons section*/
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+    
+}
+
+#reasons h2 {
+    font-size: 280%;
+    margin-bottom: 20px;
+}
+
+#benefits-stress div, 
+#benefits-sleep div, 
+#benefits-awareness div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits-stress p, 
+#benefits-sleep p, 
+#benefits-awareness p {
+    padding: 0 20px;
+}
+
+#benefits-stress hr, 
+#benefits-sleep hr, 
+#benefits-awareness hr {
+    border-top: 1px solid #141313;
+    margin: 5px 0;
 }
 
 /* Footer */
