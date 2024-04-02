@@ -146,14 +146,30 @@ main {
     margin: 5px 0;
 }
 
+#benefits-stress, 
+#benefits-sleep, 
+#benefits-awareness {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#benefits-stress > div, 
+#benefits-sleep > div,
+#benefits-awareness > div {
+    width: 100%;
+    text-align: center;
+    align-self: center;
+}
+
 #circle-image {
-    background: url("../images/hero-circle.webp") no-repeat center center/cover;
-    height: 115vw;
+    background: url("../images/hero-circle.webp") no-repeat top center/cover;
+    height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
     border-radius: 50%;
-    max-width: 350px;
-    max-height: 450px;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 #benefits-image {
@@ -232,4 +248,36 @@ main {
     #cover-text {
         bottom: 100px;
     }
+}
+
+/* Meadia query: laptops and desktops (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    #reasons h2 {
+        text-align: center;
+    }
+
+    #benefits {
+        display: flex;
+        flex-direction: row;
+        
+    }
+
+    #benefits > div {
+        flex: 1;
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+    
+    #benefits-sleep {
+        order: 1;
+    }
+
+    #benefits-awareness {
+        order: 2;
+    }
+
+    
 }
