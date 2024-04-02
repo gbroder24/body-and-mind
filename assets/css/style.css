@@ -229,9 +229,12 @@ main {
     }
 
     #cover-text {
-        width: 280px;
-        right: 250px;
+        /*width: 280px;
+        right: 250px;*/
+        margin: 50px 230px;
         padding: 20px;
+        width: 40%;
+        text-align: center;
     }
 
     #reasons h2 {
@@ -264,7 +267,9 @@ main {
     }
 
     #cover-text {
-        margin: 200px 0;
+        margin: 100px 280px;
+        left: 125px;
+        padding: 40px 20px;
     }
 
     #reasons h2 {
