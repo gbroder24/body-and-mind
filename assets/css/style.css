@@ -91,9 +91,9 @@ main {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: url("../images/hero.webp") no-repeat center center/cover;
+    background: url("../images/hero.webp") no-repeat bottom center/cover;
     position: relative;
 }
 
@@ -144,6 +144,22 @@ main {
 #benefits-awareness hr {
     border-top: 1px solid #141313;
     margin: 5px 0;
+}
+
+#circle-image {
+    background: url("../images/hero-circle.webp") no-repeat center center/cover;
+    height: 115vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 350px;
+    max-height: 450px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Footer */
