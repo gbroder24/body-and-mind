@@ -233,6 +233,10 @@ main {
         right: 250px;
         padding: 20px;
     }
+
+    #reasons h2 {
+        text-align: center;
+    }
 }
 
 /* Meadia query: laptops and upwards (992px and up) */
@@ -248,10 +252,20 @@ main {
     #cover-text {
         bottom: 100px;
     }
+
 }
 
 /* Meadia query: laptops and desktops (1200px and up) */
 @media screen and (min-width: 1200px) {
+
+    #hero {
+        height: 750px;
+        
+    }
+
+    #cover-text {
+        margin: 200px 0;
+    }
 
     #reasons h2 {
         text-align: center;
@@ -260,11 +274,14 @@ main {
     #benefits {
         display: flex;
         flex-direction: row;
-        
+        flex-wrap: wrap;
+        justify-content: space-evenly;
     }
 
-    #benefits > div {
-        flex: 1;
+    #benefits-stress, 
+    #benefits-sleep {
+        width: 400px;
+        margin-top: 75px;
     }
 
     #benefits-image {
