@@ -25,6 +25,10 @@ h1, h2, h3 {
     color: #141313;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -178,6 +182,30 @@ main {
     justify-content: center;
 }
 
+#times {
+    background: url('../images/shannon.jpeg') no-repeat center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 60px 15px;
+    text-align: center;
+    /* No wrap on screens for width of less than 400px
+    Each div will tak up surplus space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates grid over background image */
+    border: 2px solid white;
+}
+
+#times h3 {
+    /* Overide heading color set in general */
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -239,6 +267,10 @@ main {
 
     #reasons h2 {
         text-align: center;
+    }
+
+    #times div {
+        height: 200px;
     }
 }
 
