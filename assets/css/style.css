@@ -18,7 +18,9 @@ body {
     font-family: 'Sintony', sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Arapey', sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -53,7 +55,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 0.5em;
 }
 
@@ -113,8 +115,8 @@ main {
     padding: 15px;
 }
 
-#cover-text > h2, 
-#cover-text > h3 {
+#cover-text>h2,
+#cover-text>h3 {
     color: #141313;
 }
 
@@ -122,7 +124,7 @@ main {
 #reasons {
     width: 90%;
     margin: 20px auto;
-    
+
 }
 
 #reasons h2 {
@@ -130,37 +132,37 @@ main {
     margin-bottom: 20px;
 }
 
-#benefits-stress div, 
-#benefits-sleep div, 
+#benefits-stress div,
+#benefits-sleep div,
 #benefits-awareness div {
     line-height: 20px;
     margin-bottom: 20px;
 }
 
-#benefits-stress p, 
-#benefits-sleep p, 
+#benefits-stress p,
+#benefits-sleep p,
 #benefits-awareness p {
     padding: 0 20px;
 }
 
-#benefits-stress hr, 
-#benefits-sleep hr, 
+#benefits-stress hr,
+#benefits-sleep hr,
 #benefits-awareness hr {
     border-top: 1px solid #141313;
     margin: 5px 0;
 }
 
-#benefits-stress, 
-#benefits-sleep, 
+#benefits-stress,
+#benefits-sleep,
 #benefits-awareness {
     display: flex;
     flex-direction: column;
     width: 100%;
 }
 
-#benefits-stress > div, 
-#benefits-sleep > div,
-#benefits-awareness > div {
+#benefits-stress>div,
+#benefits-sleep>div,
+#benefits-awareness>div {
     width: 100%;
     text-align: center;
     align-self: center;
@@ -211,14 +213,14 @@ main {
 #mindful {
     width: 90%;
     margin: 20px auto;
-    
+
 }
- 
+
 #mindful h2 {
     font-size: 280%;
     margin-bottom: 20px;
 }
- 
+
 #technique-mindful div {
     line-height: 20px;
     margin-bottom: 20px;
@@ -227,7 +229,7 @@ main {
 #technique-mindful p {
     padding: 0 20px;
 }
- 
+
 #technique-mindful hr {
     border-top: 1px solid #141313;
     margin: 5px 0;
@@ -238,10 +240,10 @@ main {
     flex-direction: column;
     width: 100%;
 }
- 
+
 #technique-mindful > div {
     width: 100%;
-    text-align: center;
+    text-align: left;
     align-self: center;
 }
 
@@ -251,15 +253,25 @@ main {
     height: auto;
     max-height: 500px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+#mindful iframe {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    max-height: 500px;
+    display: block;
+    margin: 20px auto;
+    border: none;
 }
 
 /* Footer */
 #social-networks {
     text-align: center;
     padding: 20px 0;
-    display:flex;
+    display: flex;
     justify-content: space-evenly;
     list-style-type: none;
 }
@@ -272,6 +284,7 @@ main {
 
 /* Meadia query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -285,7 +298,7 @@ main {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -321,6 +334,16 @@ main {
     #times div {
         height: 200px;
     }
+
+    #mindful iframe {
+        width: 100%;
+        max-width: 800px;
+        height: 400px;
+        max-height: 500px;
+        display: block;
+        margin: 20px auto 200px;
+        border: none;
+    }
 }
 
 /* Meadia query: laptops and upwards (992px and up) */
@@ -336,7 +359,6 @@ main {
     #cover-text {
         bottom: 100px;
     }
-
 }
 
 /* Meadia query: laptops and desktops (1200px and up) */
@@ -344,7 +366,7 @@ main {
 
     #hero {
         height: 750px;
-        
+
     }
 
     #cover-text {
@@ -364,7 +386,7 @@ main {
         justify-content: space-evenly;
     }
 
-    #benefits-stress, 
+    #benefits-stress,
     #benefits-sleep {
         width: 400px;
         margin-top: 75px;
@@ -373,7 +395,7 @@ main {
     #benefits-image {
         order: 0;
     }
-    
+
     #benefits-sleep {
         order: 1;
     }
@@ -382,5 +404,4 @@ main {
         order: 2;
     }
 
-    
 }
