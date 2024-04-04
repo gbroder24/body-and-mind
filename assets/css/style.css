@@ -206,6 +206,55 @@ main {
     color: #fafafa;
 }
 
+/* Mindful Technique section */
+
+#mindful {
+    width: 90%;
+    margin: 20px auto;
+    
+}
+ 
+#mindful h2 {
+    font-size: 280%;
+    margin-bottom: 20px;
+}
+ 
+#technique-mindful div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#technique-mindful p {
+    padding: 0 20px;
+}
+ 
+#technique-mindful hr {
+    border-top: 1px solid #141313;
+    margin: 5px 0;
+}
+
+#technique-mindful {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+ 
+#technique-mindful > div {
+    width: 100%;
+    text-align: center;
+    align-self: center;
+}
+
+#mindful img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    max-height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
