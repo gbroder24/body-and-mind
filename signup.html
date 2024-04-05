@@ -40,7 +40,44 @@
         </nav>
     </header>
     <!-- Main Content -->
-    <main>Main Content</main>
+    <main>
+        <section id="signup">
+            <form action="https://formdump.codeinstitute.net" id="signup-form" method="post">
+                <h2><i class="fa-solid fa-dove"></i> BOOK A SESSION WITH US...</h2>
+                <fieldset>
+                <label for="first-name">First Name: </label>
+                <input type="text" name="first-name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name: </label>
+                <input type="text" name="last-name" id="last-name" class="text-input" required>
+                </fieldset>
+                <br>
+                <fieldset>
+                <label for="email-address">Email Address: </label>
+                <input type="email" name="email-address" id="email-address" class="text-input" required>
+                </fieldset>
+                <br>
+                <fieldset>
+                <div class="radio-buttons">
+                    <div>
+                        <label for="yoga">Yoga</label>
+                        <input type="radio" name="preferance" id="yoga" required checked>
+                    </div>
+                    <div>
+                        <label for="affirmation">Affirmation</label>
+                        <input type="radio" name="preferance" id="affirmation" required>
+                    </div>
+                    <div>
+                        <label for="visual">Visual</label>
+                        <input type="radio" name="preferance" id="visual" required>
+                    </div>
+                </div>
+                </fieldset>
+                <button type="submit" class="submit-button">Submit</button>
+                <button type="reset" class="submit-button">Clear</button>
+            </form>
+        </section>
+    </main>
     <!-- Footer -->
     <footer>
         <ul id="social-networks">
