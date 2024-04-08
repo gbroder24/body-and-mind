@@ -596,6 +596,22 @@ textarea {
     #cover-text {
         bottom: 100px;
     }
+
+    #signup {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    #signup #form, 
+    #signup #map {
+        width: 100%;
+        
+    }
+
+     #signup iframe {
+        height: 577px;
+    }
 }
 
 /* Meadia query: laptops and desktops (1200px and up) */
