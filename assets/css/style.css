@@ -565,7 +565,7 @@ textarea {
     }
 
     #signup-form {
-        max-width: 400px;
+        width: 100%;
     }
 
     .text-input:hover {
@@ -641,4 +641,17 @@ textarea {
         order: 2;
     }
 
+    /* Meadia query: laptops and upwards (1440px and up) */
+@media screen and (min-width: 1440px) {
+        #signup-image {
+            height: 650px;
+        }
+    }
+
+     /* Meadia query: 4k screen and larger (2560px and up) */
+@media screen and (min-width: 2560px) {
+    #signup-image {
+        height: 1300px;
+    }
+}
 }
