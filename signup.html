@@ -4,8 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Body and Mind. Techniques, lessons and classes for beginners in Limerick City. Mental health, physical health and wellbeing. University of Limerick Sports Arena.">
-    <meta name="keywords" content="body and mind, beginners, classes, techniques, exercise, mental health, physical healt, yoga, breathwork, visualisation, Limerick, Ireland">
+    <meta name="description"
+        content="Body and Mind. Techniques, lessons and classes for beginners in Limerick City. Mental health, physical health and wellbeing. University of Limerick Sports Arena.">
+    <meta name="keywords"
+        content="body and mind, beginners, classes, techniques, exercise, mental health, physical healt, yoga, breathwork, visualisation, Limerick, Ireland">
     <!-- Title -->
     <title>Body and Mind</title>
     <!-- Favicon -->
@@ -41,66 +43,83 @@
     </header>
     <!-- Main Content -->
     <main>
+        <section id="signup-image">
+            <div id="image"></div>
+        </section>
         <section id="signup">
-            <form action="https://formdump.codeinstitute.net" id="signup-form" method="post" target="_blank">
-                <h2><i class="fa-solid fa-dove"></i> BOOK A SESSION WITH US...</h2>
-                <fieldset>
-                    <legend>Your Details</legend>
-                    <label for="first-name">First Name: </label>
-                    <input type="text" name="first-name" id="first-name" class="text-input" required>
-                    <label for="last-name">Last Name: </label>
-                    <input type="text" name="last-name" id="last-name" class="text-input" required>
-                </fieldset>
-                <br>
-                <fieldset>
-                    <legend>Email</legend>
-                <label for="email-address">Email Address: </label>
-                <input type="email" name="email-address" id="email-address" class="text-input" required>
-                </fieldset>
-                <br>
-                <fieldset>
-                    <legend>Select Class</legend>
-                <div class="radio-buttons">
-                    <div>
-                        <label for="yoga">Yoga</label>
-                        <input type="radio" name="preferance" id="yoga" required checked>
-                    </div>
-                    <div>
-                        <label for="affirmation">Affirmation</label>
-                        <input type="radio" name="preferance" id="affirmation" required>
-                    </div>
-                    <div>
-                        <label for="visual">Visual</label>
-                        <input type="radio" name="preferance" id="visual" required>
-                    </div>
-                </div>
-                </fieldset>
-                <br>
-                <label for="message">Send us a message...</label>
-                <textarea name="message" id="message" cols="20" rows="5" placeholder="Your message..."></textarea>
-                <br>
-                <label for="news">Keep up to date with our latest news letter</label>
-                <input type="checkbox" name="news" id="news" checked>
-                <br>
-                <button type="submit" class="submit-button">Submit</button>
-                <button type="reset" class="reset-button">Clear</button>
-            </form>
+            <div id="form">
+                <form action="https://formdump.codeinstitute.net" id="signup-form" method="post" target="_blank">
+                    <h2><i class="fa-solid fa-dove"></i> BOOK A SESSION WITH US...</h2>
+                    <fieldset>
+                        <legend>Your Details</legend>
+                        <label for="first-name">First Name: </label>
+                        <input type="text" name="first-name" id="first-name" class="text-input" required>
+                        <label for="last-name">Last Name: </label>
+                        <input type="text" name="last-name" id="last-name" class="text-input" required>
+                    </fieldset>
+                    <br>
+                    <fieldset>
+                        <legend>Email</legend>
+                        <label for="email-address">Email Address: </label>
+                        <input type="email" name="email-address" id="email-address" class="text-input" required>
+                    </fieldset>
+                    <br>
+                    <fieldset>
+                        <legend>Select Class</legend>
+                        <div class="radio-buttons">
+                            <div>
+                                <label for="yoga">Yoga</label>
+                                <input type="radio" name="preferance" id="yoga" required checked>
+                            </div>
+                            <div>
+                                <label for="affirmation">Affirmation</label>
+                                <input type="radio" name="preferance" id="affirmation" required>
+                            </div>
+                            <div>
+                                <label for="visual">Visual</label>
+                                <input type="radio" name="preferance" id="visual" required>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <br>
+                    <label for="message">Send us a message...</label>
+                    <textarea name="message" id="message" cols="20" rows="5" placeholder="Your message..."></textarea>
+                    <br>
+                    <label for="news">Keep up to date with our latest news letter</label>
+                    <input type="checkbox" name="news" id="news" checked>
+                    <br>
+                    <button type="submit" class="submit-button">Submit</button>
+                    <button type="reset" class="reset-button">Clear</button>
+                </form>
+            </div>
+            <div id="map">
+                <h2><i class="fa-solid fa-location-dot"></i> OUR LOCATION...</h2>
+                <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=52.67311994225149,%20-8.563911341227984+(UL%20Sports%20Arena)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps vehicle tracker</a></iframe>
+            </div>
         </section>
     </main>
     <!-- Footer -->
     <footer>
         <ul id="social-networks">
             <li>
-                <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-square-facebook"></i></a>
+                <a href="https://www.facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in a new tab)"><i
+                        class="fa-brands fa-square-facebook"></i></a>
             </li>
             <li>
-                <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-square-x-twitter"></i></a>
+                <a href="https://www.twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter page (opens in a new tab)"><i
+                        class="fa-brands fa-square-x-twitter"></i></a>
             </li>
             <li>
-                <a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-square-youtube"></i></a>
+                <a href="https://www.youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Youtube page (opens in a new tab)"><i
+                        class="fa-brands fa-square-youtube"></i></a>
             </li>
             <li>
-                <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i class="fa-brands fa-square-instagram"></i></a>
+                <a href="https://www.instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in a new tab)"><i
+                        class="fa-brands fa-square-instagram"></i></a>
             </li>
         </ul>
     </footer>
