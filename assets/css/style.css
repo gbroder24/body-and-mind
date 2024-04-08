@@ -656,6 +656,11 @@ textarea {
         margin-top: 75px;
     }
 
+    .paralax {
+        height: 500px;
+        background-position: top;
+    }
+
     #benefits-image {
         order: 0;
     }
@@ -664,8 +669,12 @@ textarea {
         order: 1;
     }
 
+    #benefits .paralax {
+        order: 3;
+    }
+
     #benefits-awareness {
-        order: 2;
+        order: 4;
     }
 
     /* Meadia query: laptops and upwards (1440px and up) */
