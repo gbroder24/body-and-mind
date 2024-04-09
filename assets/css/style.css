@@ -106,7 +106,7 @@ main {
 #cover-text {
 
     background-color: rgba(100, 105, 150, 0.7);
-    font-size: 120%;
+    font-size: 110%;
     position: absolute;
     margin-left: 20px;
     bottom: 30px;
@@ -117,6 +117,8 @@ main {
 
 #cover-text>h2,
 #cover-text>h3 {
+    font-weight: bold;
+    letter-spacing: 2px;
     color: #141313;
 }
 
