@@ -600,6 +600,11 @@ textarea {
         border-bottom: 1px solid #1f1e1e;
     }
 
+    #menu>li {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
     #hero {
         height: 600px;
     }
