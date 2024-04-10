@@ -27,14 +27,6 @@ h3 {
     color: #141313;
 }
 
-#time-table h2 {
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 24px;
-    padding: 0 10px;
-    letter-spacing: 2px;
-}
-
 /* Header */
 header {
     background-color: #ffffff;
@@ -201,6 +193,14 @@ main {
     justify-content: center;
 }
 
+#time-table h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    padding: 0 10px;
+    letter-spacing: 2px;
+}
+
 #times {
     background: url('../images/shannon.jpeg') no-repeat center/cover;
     display: flex;
@@ -271,6 +271,11 @@ main {
     max-height: 500px;
     display: block;
     margin: 20px auto;
+    
+}
+
+.technique {
+    box-shadow: 2px 2px 5px grey;
     border-radius: 5px;
 }
 
@@ -330,7 +335,6 @@ main {
     max-height: 500px;
     display: block;
     margin: 20px auto;
-    border-radius: 5px;
 }
 
 #breathwork iframe {
@@ -389,7 +393,6 @@ main {
     max-height: 500px;
     display: block;
     margin: 20px auto;
-    border-radius: 5px;
 }
 
 #visualisation iframe {
