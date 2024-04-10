@@ -271,12 +271,6 @@ main {
     max-height: 500px;
     display: block;
     margin: 20px auto;
-    
-}
-
-.technique {
-    box-shadow: 2px 2px 5px grey;
-    border-radius: 5px;
 }
 
 #mindful iframe {
@@ -403,6 +397,11 @@ main {
     display: block;
     margin: 20px auto;
     border: none;
+}
+
+.technique {
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 5px;
 }
 
 /* Signup section */
@@ -622,6 +621,10 @@ textarea {
 
     #cover-text {
         bottom: 100px;
+    }
+
+    .technique {
+        box-shadow: 20px 20px 50px grey;
     }
 
     #signup {
