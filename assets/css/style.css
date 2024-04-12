@@ -715,6 +715,11 @@ textarea {
 
      /* Meadia query: 4k screen and larger (2560px and up) */
 @media screen and (min-width: 2560px) {
+
+    #hero {
+        height: 1450px;
+    }
+
     #signup-image {
         height: 1300px;
     }
