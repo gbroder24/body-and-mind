@@ -5,7 +5,7 @@ It is built to attract business for the client and for the user provides benefit
 
 ### PP1 - Gary Broderick
 
-![am i responsive screenshot](assets/images/am-i-responsive.PNG)
+![am i responsive screenshot](assets/documentation/am-i-responsive.PNG)
 
 ------------------------------------------------------------------------------------
 ## [**Live Site**](https://gbroder24.github.io/body-and-mind/)
@@ -45,9 +45,14 @@ The wireframe mockups were created on Balsamiq. They show what the website would
 
 ### Landing Page
 
+![mobile-desktop-wireframe](assets/documentation/wireframes/home-page.PNG)
+
 ### Techniques Page
 
+![mobile-desktop-wireframe](assets/documentation/wireframes/techniques.PNG)
+
 ### Signup Page
+![mobile-desktop-wireframe](assets/documentation/wireframes/signup.PNG)
 
 ## Color Palette
 
