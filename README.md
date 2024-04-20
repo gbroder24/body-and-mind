@@ -93,3 +93,74 @@ Google Fonts Font family.
 Am I Responsive to show website on devices.
 Pexels Images.
 Image Resizer to rezize images.
+
+## List of Features
+
+### Header
+
+On tablet / desktop the header includes navigation links to the home page (index.html) techniques page and the signup page. It also has a logo included that when clicked on navigates to the home landing page.
+
+As the user scrolls down the page the header is fixed to the top of the website for visibility and easy navigation.
+
+A border line is displayed underneath an active page and this feature is indicated to the user. This feature is included across all pages.
+
+On mobile devices the header includes the logo and a navigation bars icon (burger icon). When the navigation icon is selected a drop-down menu is displayed with a list of navigation links. This is consistent across all the pages.
+
+![header-image](assets/documentation/features/header.PNG)
+
+![header-mobile-image](assets/documentation/features/header-mobile.PNG)
+
+### Hero Image
+
+The hero image attracts the user and indicates that body and mind is a calm and relaxing environment. It also informs the user with text overlay of the tag line and the location.
+
+![hero-image](assets/documentation/features/hero-image.PNG)
+
+### The Benefits
+
+The benefits section describes the advantages of body and mind classes that the client specializes in. The content is responsive and engages the user, The content is kept short and precise so as not to overload the user with information. An image is also displayed that indicates calmness and relaxation to the user.
+
+![benefits-image](assets/documentation/features/benefits.PNG)
+
+![benefits-mobile-image](assets/documentation/features/benefits-mobile.PNG)
+
+### Paralax Image
+
+The paralax image is a scrolling feature where the background content is scrolled at a different speed to the foreground content. It displays an image of a body and mind group class with yoga mats.
+
+![paralax-image](assets/documentation/features/paralax.PNG)
+
+### Timetable
+The time table is located below the paralax image and above the footer. It informs the user of the times when the classes commence, the days and the type of class. There is also a background image of the river Shannon which corresponds to the location of the business and Limerick area. It has a tile design. This feature is also responsive.
+
+![timetable-image](assets/documentation/features/timetable.PNG)
+
+![timetable-mobile-image](assets/documentation/features/timetable-mobile.PNG)
+
+### Footer
+The footer includes social media icons that are links to the clients social media accounts for the user to further inform themselves if interested. The links open in a new tab.
+
+![footer-image](assets/documentation/features/footer.PNG)
+
+### Techniques Page
+The techniques page give the user a high level overview of the techniques, practices and the different aspects of body and mind. It provides relaxing and calm images and videos with a box shadow for the user to interact with and inform the users curiosity and interest. This page is also responsive and has a stacked design where the content is stacked on top of each section across various media devices.
+
+![techniques-page-image](assets/documentation/features/technique-mindfull.PNG)
+
+![techniques-image](assets/documentation/features/technique-image.PNG)
+
+![techniques-video-image](assets/documentation/features/technique-video.PNG)
+
+### Signup Page
+
+Located underneath the header is an image of a woman relaxing and in a calm state to keep with the theme and flow of the website. Directly below this is a form for the user to book a session, to provide their details and send the client a message or a query. The user can also opt in to a news letter. The signup form is user friendly and also has a hover effect when the cursor hovers over the input text areas, submit and clear buttons to attract the user to enter their details, submit their details or clear them.
+
+![signup-image](assets/documentation/features/signup-image.PNG)
+
+![signup-form-image](assets/documentation/features/signup-form.PNG)
+
+Alongside the signup form is a map of the clients location for the user to easily locate and access the classes. On mobile the content is displayed in a stacked structure. This page is responsive across various media devices as well.
+
+![signup-map-image](assets/documentation/features/signup-map.PNG)
+
+![signup-image](assets/documentation/features/signup-mobile.PNG)
