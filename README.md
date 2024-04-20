@@ -79,21 +79,6 @@ The color scheme was chosen for sufficient contrast and legibility.
 External links open in a new tab.
 Embedded videos do not auto-play.
 
-## Tools and Technologies
-HTML5 Website Structure.
-CSS3 Website Style.
-MarkDown Readme.md file
-Balsamiq Wireframes.
-Github Repository and deployment.
-Gitpod IDE.
-Git Version control.
-Fontawesom Icons.
-W3schools HTML / CSS tips.
-Google Fonts Font family.
-Am I Responsive to show website on devices.
-Pexels Images.
-Image Resizer to rezize images.
-
 ## List of Features
 
 ### Header
@@ -164,3 +149,33 @@ Alongside the signup form is a map of the clients location for the user to easil
 ![signup-map-image](assets/documentation/features/signup-map.PNG)
 
 ![signup-image](assets/documentation/features/signup-mobile.PNG)
+
+## Tools and Technologies
+HTML5 Website Structure.
+CSS3 Website Style.
+MarkDown Readme.md file
+Balsamiq Wireframes.
+Github Repository and deployment.
+Gitpod IDE.
+Git Version control.
+Fontawesom Icons.
+W3schools HTML / CSS tips.
+Google Fonts Font family.
+Am I Responsive to show website on devices.
+Pexels Images.
+Image Resizer to rezize images.
+
+## Deployment
+
+This website was deployed using GitHub pages. The steps to deploy are as follows:
+
+1.  Login to GitHub and navigate to the repository page (body-and-mind), click on the repository.
+2.  Once inside the repository, click on the "Settings" tab above the repository title.
+3.  Under "Code and automation" select "Pages" tab on the left side navigation menu.
+4.  In the "Build and Deployment" section (middle of the screen), under "Source" select from the drop-down menu "Deploy 									from a branch".
+5. Under "Branch", select "main" branch and then "root" folder and click "save" button
+6.  The GitHub page site will be deployed.
+
+It might take a few minutes to generate the "live" website link.
+
+The live link to Body and Mind can be found here: [Body and Mind](https://gbroder24.github.io/body-and-mind/index.html).
