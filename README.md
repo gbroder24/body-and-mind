@@ -165,6 +165,58 @@ Am I Responsive to show website on devices.
 Pexels Images.
 Image Resizer to rezize images.
 
+## Testing
+Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family an friends) was also executed.
+
+### Website Links
+The following test scenarios were executed on the websites links and results recorded:
+
+|Scenario|Result  |
+|--|--|
+| Verify 'Techniques' link navigates to the correct page.|Pass  |
+| Verify 'Home' link navigates to the correct page.|Pass  |
+| Verify 'Signup' link navigates to the correct page.|Pass  |
+| Verify 'Body and Mind' logo link navigates to the correct page.|Pass  |
+| Verify 'Facebook' social media link navigates to the correct page.|Pass  |
+| Verify 'Twitter' social media link navigates to the correct page.|Pass  |
+| Verify 'Youtube' social media link navigates to the correct page.|Pass  |
+| Verify 'Instagram' social media link navigates to the correct page.|Pass  |
+
+### Signup Form
+The following test scenarios were executed on the signup form and results recorded:
+
+|Scenario|Result  |
+|--|--|
+| Do not fill in any details and select the 'Submit' button. Verify that the user is prompted to 'Please fill out this field' for 'First Name'.|Pass  |
+| Fill in 'First Name' details and select the 'Submit' button. Verify that the user is prompted to 'Please fill out this field' for 'Last Name'.|Pass  |
+| Fill in 'Last Name' details and select the 'Submit' button. Verify that the user is prompted to 'Please fill out this field' for 'Email Address'.|Pass  |
+| Fill in 'Email Address' details and exclude '@' symbol. Then select the 'Submit' button. Verify that the user is prompted to 'Please include an @ in the email address' for 'Email Address'.|Pass  |
+| Select 'Affirmation' or 'Visual' class radio button. Navigate away from the 'Signup' page. Now navigate to the 'Signup' page. Verify the 'Yoga' class radio button is selected.|Pass  |
+| Verify the 'User' can enter text into the text area to send the 'Client' a message.|Pass  |
+| Ensure the 'News Letter' option is unchecked. Navigate away from the 'Signup' page. Now navigate to the 'Signup' page. Verify the 'News Letter' checkbox is checked.|Pass  |
+| Populate all the required fields correctly and select the 'Submit' button. Verify that a new window / tab is displayed informing the 'User' that they have submitted their details successfully.|Pass  |
+| Populate all the required fields correctly and ensure the 'News Letter' option is unchecked. Select the 'Submit' button. Verify that 'News' has not been included in the sent data table for 'Input Name' column.|Pass  |
+
+### User Testing
+The following test scenarios were executed on users and results recorded:
+
+|Scenario|Result  |
+|--|--|
+| On the landing page scroll down and find out more about the website.|Pass  |
+| Navigate to the social media links.|Pass  |
+| Navigate to the 'Techniques' page and interact with the embedded videos.|Pass  |
+| Navigate to the 'Signup' page and fill in your details, email address, class and news letter preference.|Pass  |
+| Navigate to the 'Signup' page and locate class location.|Pass  |
+
+### Responsive Testing
+
+The following test scenarios were executed on various media devices and results recorded:
+
+|Scenario|Result  |
+|--|--|
+| Is the website responsive on mobile device screens.|Pass  |
+| Is the website responsive on desktop device screens.|Pass  |
+
 ## Deployment
 
 This website was deployed using GitHub pages. The steps to deploy are as follows:
