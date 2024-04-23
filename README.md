@@ -256,6 +256,23 @@ All website pages were tested using the Lighthouse tool on a couple of different
 
 ![edge-lighthouse-best-practice-signup-image](assets/documentation/lighthouse/edge/signup-best-practice.PNG)
 
+## HTML Validation
+All html code was validated using the W3C Markup Validation Service.
+
+### index.html
+
+![validation-index.html-image](assets/documentation/validation/html/index.PNG)
+
+### techniques.html
+
+![validation-techniques.html-image](assets/documentation/validation/html/techniques.PNG)
+
+### signup.html
+
+![validation-signup.html-image](assets/documentation/validation/html/signup.PNG)
+
+
+
 ## Deployment
 
 This website was deployed using GitHub pages. The steps to deploy are as follows:
