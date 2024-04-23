@@ -12,9 +12,9 @@ It is built to attract business for the client and for the user provides benefit
 
 ## [**Repository**](https://github.com/gbroder24/body-and-mind.git)
 
-# UX/UI
+## UX/UI
 
-## Target Audience
+### Target Audience
 
 The target audience of the website is to attract people of any age or gender who may have busy and stressful daily lives who want to distress, improve sleep and better understand their bodies and minds. It also targets people who are at beginners level or that have an interest in body and mind techniques.
 
@@ -308,3 +308,54 @@ This website was deployed using GitHub pages. The steps to deploy are as follows
 It might take a few minutes to generate the "live" website link.
 
 The live link to Body and Mind can be found here: [Body and Mind](https://gbroder24.github.io/body-and-mind/index.html).
+
+## Credits
+
+### Images
+
+Hero Image: (https://www.pexels.com/photo/people-gathered-on-a-yoga-class-7596990/)
+
+Benefits Image: (https://www.pexels.com/photo/woman-meditating-in-lotus-pose-3822583/)
+
+Paralax Image: (https://www.istockphoto.com/photo/close-up-of-athletic-woman-rolling-up-her-exercise-mat-after-practicing-at-health-gm1324877187-410074024)
+
+Timetable background image: (https://www.pexels.com/photo/aerial-photography-of-a-river-shannon-surrounded-by-green-field-5082140/)
+
+Mindful Image: (https://www.calm.com/blog/bedtime-yoga?utm_medium=organic&utm_source=blog&utm_campaign=daily-routine)
+
+Breathwork Image: (https://www.calm.com/blog/how-to-breathe?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+
+Visualisation Image: (https://www.calm.com/blog/visualization-meditation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+
+Signup Image: (https://www.calm.com/blog/yoga-for-relaxation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+
+### Embedded Videos
+
+Yoga Video: (https://www.youtube.com/watch?v=gE4Jdr11-co)
+
+Breath Focus: (https://www.youtube.com/watch?v=ZY4tPSrLZQc)
+
+Visualisation Video: (https://www.youtube.com/watch?v=BhaIklnRpjc)
+
+### Map
+Signup Map: (https://www.google.com/maps/place/52%C2%B040'23.2%22N+8%C2%B033'50.1%22W/@52.67312,-8.563911,14z/data=!4m4!3m3!8m2!3d52.6731199!4d-8.5639113?hl=en&entry=ttu)
+
+### Content & Resources
+The design of the landing page was lead by the Love Running project.
+
+The design of the techniques page was lead by the https://www.calm.com/blog/mind-body-connection#:~:text=Get%20started%20with%20mindfulness%20exercises,truly%20present%20in%20the%20moment. website.
+
+The design of the signup page was lead by the [Beach Yoga Fuerteventura (decant09.github.io)](https://decant09.github.io/beach-yoga-fuerteventura/contact.html) project.
+
+The tab icon was generated using https://favicon.io/
+
+Typography researched on https://fonts.google.com/
+
+All other icons used are from https://fontawesome.com/
+
+### Readme
+The Body and Mind readme mark down was inspired by the following:
+
+[belfast-auto-repairs/README.md at main · Alan-Bushell/belfast-auto-repairs · GitHub](https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md#testing)
+
+[Cross-Stitch-Art/README.md at main · laurakond/Cross-Stitch-Art · GitHub](https://github.com/laurakond/Cross-Stitch-Art/blob/main/README.md)
