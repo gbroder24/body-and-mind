@@ -271,7 +271,14 @@ All html code was validated using the W3C Markup Validation Service.
 
 ![validation-signup.html-image](assets/documentation/validation/html/signup.PNG)
 
+## CSS Validation
+All css code was validated using the W3C CSS Validation Service.
 
+### style.css
+
+![validation-style.css-image](assets/documentation/validation/css/css.PNG)
+
+![validation-style.css-image](assets/documentation/validation/css/css-warning.PNG)
 
 ## Deployment
 
