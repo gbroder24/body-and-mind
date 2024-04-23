@@ -278,7 +278,21 @@ All css code was validated using the W3C CSS Validation Service.
 
 ![validation-style.css-image](assets/documentation/validation/css/css.PNG)
 
-![validation-style.css-image](assets/documentation/validation/css/css-warning.PNG)
+![validation-style.css-warning-image](assets/documentation/validation/css/css-warning.PNG)
+
+## Known Bugs
+
+The following bug was discovered in the index.html file during Lighthouse testing:
+
+![bugs-image](assets/documentation/bugs/404-syntax-error.PNG)
+
+The following line of code in the index.html file on Line #17 was causing the error:
+
+    <link rel="manifest" href="/site.webmanifest">
+
+The fix and solution to this bug was to modify the line of code to the following: 
+
+    <link rel="manifest" href="https://gbroder24.github.io/site.webmanifest" crossorigin="use-credentials">
 
 ## Deployment
 
