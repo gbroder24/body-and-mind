@@ -217,6 +217,45 @@ The following test scenarios were executed on various media devices and results 
 | Is the website responsive on mobile device screens.|Pass  |
 | Is the website responsive on desktop device screens.|Pass  |
 
+## Lighthouse Testing
+All website pages were tested using the Lighthouse tool on a couple of different browsers, Chrome and Edge. The page load was analysed and Lighthouse reports and scores were generated.
+
+### Google Chrome
+
+#### index.html
+
+![chrome-lighthouse-index-image](assets/documentation/lighthouse/chrome/index.PNG)
+
+#### techniques.html
+
+![chrome-lighthouse-techniques-image](assets/documentation/lighthouse/chrome/techniques.PNG)
+
+![chrome-lighthouse-best-practice-techniques-image](assets/documentation/lighthouse/chrome/techniques-best-practice.PNG)
+
+#### signup.html
+
+![chrome-lighthouse-signup-image](assets/documentation/lighthouse/chrome/signup.PNG)
+
+![chrome-lighthouse-best-practice-signup-image](assets/documentation/lighthouse/chrome/signup-best-practice.PNG)
+
+### Microsoft Edge
+
+#### index.html
+
+![edge-lighthouse-index-image](assets/documentation/lighthouse/edge/index.PNG)
+
+#### techniques.html
+
+![edge-lighthouse-techniques-image](assets/documentation/lighthouse/edge/techniques.PNG)
+
+![edge-lighthouse-best-practice-techniques-image](assets/documentation/lighthouse/edge/techniques-best-practice.PNG)
+
+#### signup.html
+
+![edge-lighthouse-signup-image](assets/documentation/lighthouse/edge/signup.PNG)
+
+![edge-lighthouse-best-practice-signup-image](assets/documentation/lighthouse/edge/signup-best-practice.PNG)
+
 ## Deployment
 
 This website was deployed using GitHub pages. The steps to deploy are as follows:
