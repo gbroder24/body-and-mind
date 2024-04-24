@@ -150,6 +150,23 @@ Alongside the signup form is a map of the clients location for the user to easil
 
 ![signup-image](assets/documentation/features/signup-mobile.PNG)
 
+## Features Left To Implement
+
+### Techniques Page
+
+Implement a detailed profile on the client business owner about the skill set they possess, experience and qualifications.
+
+### Signup Page
+
+Implement a calendar booking system so that the user can book a specific class on a specific day / month.
+Implement a 'class full' constraint on the booking system and have dates on the calendar blocked out informing the user of class availability.
+
+### User Account
+Implement a User Account feature / page for returning customers so that they do not have to enter their details every time they return to the site.
+
+### Error Page
+Implement a 404 error page in case there are any bugs that prevent the website or any links from working and the user can navigate back to the website.
+
 ## Tools and Technologies
 HTML5 Website Structure.
 CSS3 Website Style.
