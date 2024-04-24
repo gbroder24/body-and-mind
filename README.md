@@ -376,3 +376,8 @@ The Body and Mind readme mark down was inspired by the following:
 [belfast-auto-repairs/README.md at main · Alan-Bushell/belfast-auto-repairs · GitHub](https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md#testing)
 
 [Cross-Stitch-Art/README.md at main · laurakond/Cross-Stitch-Art · GitHub](https://github.com/laurakond/Cross-Stitch-Art/blob/main/README.md)
+
+### Acknowledgements
+
+My Mentor Alan Bushell for providing me with positive and encouraging feedback.
+My Cohort Facilitator Amy Richardson for addressing any queries i had at weekly Standups.
