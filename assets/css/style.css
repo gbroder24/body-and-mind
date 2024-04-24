@@ -609,7 +609,7 @@ textarea {
 
     /* Form */
     #signup-image {
-        background-position: center;
+        background-position: top;
         position: relative;
     }
 
