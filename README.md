@@ -97,7 +97,7 @@ On mobile devices the header includes the logo and a navigation bars icon (burge
 
 ### Hero Image
 
-The hero image attracts the user and indicates that body and mind is a calm and relaxing environment. It also informs the user with text overlay of the tag line and the location.
+The hero image attracts the user and indicates that body and mind is a calm and relaxing environment. It also informs the user with text overlay of the tag line and the location. There is also a call to action button. When selected it will navigate to the signup form.
 
 ![hero-image](assets/documentation/features/hero-image.PNG)
 
