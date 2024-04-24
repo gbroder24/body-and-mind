@@ -370,6 +370,14 @@ Typography researched on https://fonts.google.com/
 
 All other icons used are from https://fontawesome.com/
 
+Code Institute for course / module content and portfolio project 1 scope.
+
+Stack Overflow for the solution to the 404 syntax error. https://stackoverflow.com/questions/57423244/manifest-line-1-column-1-syntax-error-on-chrome-browser
+
+W3schools for any queries or difficulties encountered with code concepts in html and css. https://www.w3schools.com/
+
+Flexbox Froggy for understanding the flexbox concept. https://flexboxfroggy.com/
+
 ### Readme
 The Body and Mind readme mark down was inspired by the following:
 
