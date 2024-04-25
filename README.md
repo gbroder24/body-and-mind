@@ -463,4 +463,4 @@ The Body and Mind readme mark down was inspired by the following:
 ### Acknowledgements
 
 My Mentor Alan Bushell for providing me with positive and encouraging feedback.  
-My Cohort Facilitator Amy Richardson for addressing any queries i had at weekly Standups.
+My Cohort Facilitator Amy Richardson for addressing any queries I had at weekly Standups.
