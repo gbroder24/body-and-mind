@@ -139,7 +139,7 @@ Blue - Used in the social media icons hover effect.
 
 The Sintony font style is the main font style used throughout the website and sans-serif is chosen as the fallback style.
 
-## Accessability
+## Accessibility
 
 The website avoids clutter. The content is structured with semantic tags. Aria labels and alt attributes are used for screen readers for the visually impaired.
 The color scheme was chosen for sufficient contrast and legibility.
