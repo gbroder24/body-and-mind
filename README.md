@@ -89,23 +89,23 @@ The target audience of the website is to attract people of any age or gender who
 
 ### Client Goals
 
-+I want my business to have an online presence.  
-+I want an easy to navigate website.  
-+I want to showcase my expertise, knowledge and skills.  
-+I want to attract users to my website.  
-+I want users to contact me.  
-+I want users to be aware of and directed my social media.  
-+I want users to book a class.  
-+I want users to have the option of signing up to a newsletter.  
-+I want to inform users with content, imagery and videos.  
-+I want to share my passion.  
++ I want my business to have an online presence.     
++ I want an easy to navigate website.  
++ I want to showcase my expertise, knowledge and skills.  
++ I want to attract users to my website.  
++ I want users to contact me.  
++ I want users to be aware of and directed my social media.  
++ I want users to book a class.  
++ I want users to have the option of signing up to a newsletter.  
++ I want to inform users with content, imagery and videos.  
++ I want to share my passion.  
 
 ### User Goals
-+I am a beginner and curious about body and mind improvement techniques.  
-+I want research with techniques through content, imagery and videos to further my interests.  
-+I want to sign up to a class.  
-+I want to contact the client.  
-+I want to navigate the website easily.  
++ I am a beginner and curious about body and mind improvement techniques.  
++ I want research with techniques through content, imagery and videos to further my interests.  
++ I want to sign up to a class.  
++ I want to contact the client.  
++ I want to navigate the website easily.  
 
 ## Wireframes
 The wireframe mockups were created on Balsamiq. They show what the website would look like on mobile and destop devices.
@@ -124,16 +124,16 @@ The wireframe mockups were created on Balsamiq. They show what the website would
 ## Color Palette
 
 The following colors were chosen for the website and ensure contrast is achieved in the main parts of the page.
-#1f1e1e - Eerie Black - Used in the generic body, social media icons, submit and reset button hover effect.
-#141313 - Chinese Black - Used in headings, hero cover text headings.
-#ffffff - White - Used in the header, nav bar, signup form and map, text input hover, submit and reset button hover effect.
-rgba(100, 105, 150, 0.7) - Used in the overlay on the hero image.
-#fafafa - Lotion - Used in the timetable text, submit and reset button background-color.
-rgba(0, 0, 0, 0.7) - Used in the timetable background image.
-#030308 - Rich Black - Used for the fieldsets, signup form and map headings, form text input areas.
-rgba(52, 59, 61, 0.6) - Used in the signup form and map.
-Black  - Used in the submit and reset button text.
-Blue - Used in the social media icons hover effect.
++ #1f1e1e - Eerie Black - Used in the generic body, social media icons, submit and reset button hover effect.  
++ #141313 - Chinese Black - Used in headings, hero cover text headings.  
++ #ffffff - White - Used in the header, nav bar, signup form and map, text input hover, submit and reset button hover effect.  
++ rgba(100, 105, 150, 0.7) - Used in the overlay on the hero image.  
++ #fafafa - Lotion - Used in the timetable text, submit and reset button background-color.  
++ rgba(0, 0, 0, 0.7) - Used in the timetable background image.  
++ #030308 - Rich Black - Used for the fieldsets, signup form and map headings, form text input areas.  
++ rgba(52, 59, 61, 0.6) - Used in the signup form and map.  
++ Black  - Used in the submit and reset button text.  
++ Blue - Used in the social media icons hover effect.  
 
 ## Font Styles
 
@@ -141,10 +141,12 @@ The Sintony font style is the main font style used throughout the website and sa
 
 ## Accessibility
 
-The website avoids clutter. The content is structured with semantic tags. Aria labels and alt attributes are used for screen readers for the visually impaired.
-The color scheme was chosen for sufficient contrast and legibility.
-External links open in a new tab.
-Embedded videos do not auto-play.
++ The website avoids clutter.  
++ The content is structured with semantic tags.  
++ Aria labels and alt attributes are used for screen readers for the visually impaired.  
++ The color scheme was chosen for sufficient contrast and legibility.  
++ External links open in a new tab.  
++ Embedded videos do not auto-play.  
 
 ## List of Features
 
@@ -235,19 +237,19 @@ Implement a User Account feature / page for returning customers so that they do 
 Implement a 404 error page in case there are any bugs that prevent the website or any links from working and the user can navigate back to the website.
 
 ## Tools and Technologies
-HTML5 Website Structure.
-CSS3 Website Style.
-MarkDown Readme.md file
-Balsamiq Wireframes.
-Github Repository and deployment.
-Gitpod IDE.
-Git Version control.
-Fontawesom Icons.
-W3schools HTML / CSS tips.
-Google Fonts Font family.
-Am I Responsive to show website on devices.
-Pexels Images.
-Image Resizer to rezize images.
++ HTML5 Website Structure.  
++ CSS3 Website Style.  
++ MarkDown Readme.md file  
++ Balsamiq Wireframes.  
++ Github Repository and deployment.  
++ Gitpod IDE.  
++ Git Version control.  
++ Fontawesom Icons.  
++ W3schools HTML / CSS tips.  
++ Google Fonts Font family.  
++ Am I Responsive to show website on devices.  
++ Pexels Images.  
++ Image Resizer to rezize images.  
 
 ## Testing
 Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family an friends) was also executed.
