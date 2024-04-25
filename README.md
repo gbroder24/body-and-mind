@@ -29,9 +29,9 @@ It is built to attract business for the client and for the user provides benefit
 
 [ List of Features ](#list-of-features)    
 + [ Header ](#header)  
-+ [ Hero Image ](#hero)  
-+ [ The Benefits ](#benefits)  
-+ [ Paralax Image ](#paralax)  
++ [ Hero Image ](#hero-image)  
++ [ The Benefits ](#the-benefits)  
++ [ Paralax Image ](#paralax-image)  
 + [ Timetable ](#timetable)  
 + [ Footer ](#footer)  
 
