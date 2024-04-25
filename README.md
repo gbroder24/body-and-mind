@@ -83,7 +83,7 @@ It is built to attract business for the client and for the user provides benefit
 
 ### Target Audience
 
-The target audience of the website is to attract people of any age or gender who may have busy and stressful daily lives who want to distress, improve sleep and better understand their bodies and minds. It also targets people who are at beginners level or that have an interest in body and mind techniques.
+The target audience of the website is to attract people of any age or gender who may have busy and stressful daily lives who want to de-stress, improve sleep and better understand their bodies and minds. It also targets people who are at beginner's level or that have an interest in body and mind techniques.
 
 ### User Stories
 
@@ -108,7 +108,7 @@ The target audience of the website is to attract people of any age or gender who
 + I want to navigate the website easily.  
 
 ### Wireframes
-The wireframe mockups were created on Balsamiq. They show what the website would look like on mobile and destop devices.
+The wireframe mockups were created on Balsamiq. They show what the website would look like on mobile and desktop devices.
 
 #### Landing Page
 
@@ -197,7 +197,7 @@ The footer includes social media icons that are links to the clients social medi
 ![footer-image](assets/documentation/features/footer.PNG)
 
 ### Techniques Page
-The techniques page give the user a high level overview of the techniques, practices and the different aspects of body and mind. It provides relaxing and calm images and videos with a box shadow for the user to interact with and inform the users curiosity and interest. This page is also responsive and has a stacked design where the content is stacked on top of each section across various media devices.
+The techniques page gives the user a high level overview of the techniques, practices and the different aspects of body and mind. It provides relaxing and calm images and videos with a box shadow for the user to interact with and inform the users curiosity and interest. This page is also responsive and has a stacked design where the content is stacked on top of each section across various media devices.
 
 ![techniques-page-image](assets/documentation/features/technique-mindfull.PNG)
 
@@ -207,7 +207,7 @@ The techniques page give the user a high level overview of the techniques, pract
 
 ### Signup Page
 
-Located underneath the header is an image of a woman relaxing and in a calm state to keep with the theme and flow of the website. Directly below this is a form for the user to book a session, to provide their details and send the client a message or a query. The user can also opt in to a news letter. The signup form is user friendly and also has a hover effect when the cursor hovers over the input text areas, submit and clear buttons to attract the user to enter their details, submit their details or clear them.
+Located underneath the header is an image of a woman relaxing and in a calm state to keep with the theme and flow of the website. Directly below this is a form for the user to book a session, to provide their details and send the client a message or a query. The user can also opt in to a newsletter. The signup form is user friendly and also has a hover effect when the cursor hovers over the input text areas, submit and clear buttons to attract the user to enter their details, submit their details or clear them.
 
 ![signup-image](assets/documentation/features/signup-image.PNG)
 
@@ -253,7 +253,7 @@ Implement a 404 error page in case there are any bugs that prevent the website o
 + [ Youtube ](https://www.youtube.com/) for embedded videos.
 
 ## Testing
-Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family an friends) was also executed.
+Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family and friends) was also executed.
 
 ### Website Links
 The following test scenarios were executed on the websites links and results recorded:
@@ -428,7 +428,7 @@ The live link to the website can be found here: [Body and Mind](https://gbroder2
 [ Signup Map ](https://www.google.com/maps/place/52%C2%B040'23.2%22N+8%C2%B033'50.1%22W/@52.67312,-8.563911,14z/data=!4m4!3m3!8m2!3d52.6731199!4d-8.5639113?hl=en&entry=ttu)
 
 ### Content & Resources
-The design of the landing page was lead by the Love Running project.
+The design of the landing page was lead by the [ Love Running ](https://code-institute-org.github.io/love-running-2.0/index.html) project.
 
 The design of the techniques page was lead by the [ calm.com ](https://www.calm.com/blog/mind-body-connection#:~:text=Get%20started%20with%20mindfulness%20exercises,truly%20present%20in%20the%20moment) website.
 
