@@ -89,23 +89,23 @@ The target audience of the website is to attract people of any age or gender who
 
 ### Client Goals
 
-I want my business to have an online presence.
-I want an easy to navigate website.
-I want to showcase my expertise, knowledge and skills.
-I want to attract users to my website.
-I want users to contact me.
-I want users to be aware of and directed my social media.
-I want users to book a class.
-I want users to have the option of signing up to a newsletter.
-I want to inform users with content, imagery and videos.
-I want to share my passion.
++I want my business to have an online presence.  
++I want an easy to navigate website.  
++I want to showcase my expertise, knowledge and skills.  
++I want to attract users to my website.  
++I want users to contact me.  
++I want users to be aware of and directed my social media.  
++I want users to book a class.  
++I want users to have the option of signing up to a newsletter.  
++I want to inform users with content, imagery and videos.  
++I want to share my passion.  
 
 ### User Goals
-I am a beginner and curious about body and mind improvement techniques.
-I want research with techniques through content, imagery and videos to further my interests.
-I want to sign up to a class.
-I want to contact the client.
-I want to navigate the website easily.
++I am a beginner and curious about body and mind improvement techniques.  
++I want research with techniques through content, imagery and videos to further my interests.  
++I want to sign up to a class.  
++I want to contact the client.  
++I want to navigate the website easily.  
 
 ## Wireframes
 The wireframe mockups were created on Balsamiq. They show what the website would look like on mobile and destop devices.
