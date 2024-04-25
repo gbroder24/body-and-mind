@@ -39,7 +39,6 @@ It is built to attract business for the client and for the user provides benefit
 + [ Techniques Page ](#techniques-page-feat-implement)  
 + [ Signup Page ](#signup-page-feat-implement)  
 + [ User Account ](#user-account)  
-+ [ User Account ](#user-account)  
 + [ Error Page ](#error-page)  
 
 [ Tools and Technologies ](#tool-tech)   
