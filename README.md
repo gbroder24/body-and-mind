@@ -33,7 +33,9 @@ It is built to attract business for the client and for the user provides benefit
 + [ The Benefits ](#the-benefits)  
 + [ Paralax Image ](#paralax-image)  
 + [ Timetable ](#timetable)  
-+ [ Footer ](#footer)  
++ [ Footer ](#footer)
++ [ Techniques Page ](techniques-page-1)  
++ [ Signup Page ](signup-page-1)  
 
 [ Features Left to Implement ](#features-left-to-implement)  
 + [ Techniques Page ](#techniques-page-2)  
