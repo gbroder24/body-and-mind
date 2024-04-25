@@ -393,66 +393,66 @@ This website was deployed using GitHub pages. The steps to deploy are as follows
 
 It might take a few minutes to generate the "live" website link.
 
-The live link to Body and Mind can be found here: [Body and Mind](https://gbroder24.github.io/body-and-mind/index.html).
+The live link to the website can be found here: [Body and Mind](https://gbroder24.github.io/body-and-mind/index.html).
 
 ## Credits
 
 ### Images
 
-Hero Image: (https://www.pexels.com/photo/people-gathered-on-a-yoga-class-7596990/)
+[ Hero Image ](https://www.pexels.com/photo/people-gathered-on-a-yoga-class-7596990/)
 
-Benefits Image: (https://www.pexels.com/photo/woman-meditating-in-lotus-pose-3822583/)
+[ Benefits Image ](https://www.pexels.com/photo/woman-meditating-in-lotus-pose-3822583/)
 
-Paralax Image: (https://www.istockphoto.com/photo/close-up-of-athletic-woman-rolling-up-her-exercise-mat-after-practicing-at-health-gm1324877187-410074024)
+[ Paralax Image ](https://www.istockphoto.com/photo/close-up-of-athletic-woman-rolling-up-her-exercise-mat-after-practicing-at-health-gm1324877187-410074024)
 
-Timetable background image: (https://www.pexels.com/photo/aerial-photography-of-a-river-shannon-surrounded-by-green-field-5082140/)
+[ Timetable background image ](https://www.pexels.com/photo/aerial-photography-of-a-river-shannon-surrounded-by-green-field-5082140/)
 
-Mindful Image: (https://www.calm.com/blog/bedtime-yoga?utm_medium=organic&utm_source=blog&utm_campaign=daily-routine)
+[ Mindful Image ](https://www.calm.com/blog/bedtime-yoga?utm_medium=organic&utm_source=blog&utm_campaign=daily-routine)
 
-Breathwork Image: (https://www.calm.com/blog/how-to-breathe?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+[ Breathwork Image ](https://www.calm.com/blog/how-to-breathe?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
 
-Visualisation Image: (https://www.calm.com/blog/visualization-meditation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+[ Visualisation Image ](https://www.calm.com/blog/visualization-meditation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
 
-Signup Image: (https://www.calm.com/blog/yoga-for-relaxation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
+[ Signup Image ](https://www.calm.com/blog/yoga-for-relaxation?utm_medium=organic&utm_source=blog&utm_campaign=mind-body-connection)
 
 ### Embedded Videos
 
-Yoga Video: (https://www.youtube.com/watch?v=gE4Jdr11-co)
+[ Yoga Video ](https://www.youtube.com/watch?v=gE4Jdr11-co)
 
-Breath Focus: (https://www.youtube.com/watch?v=ZY4tPSrLZQc)
+[ Breath Focus ](https://www.youtube.com/watch?v=ZY4tPSrLZQc)
 
-Visualisation Video: (https://www.youtube.com/watch?v=BhaIklnRpjc)
+[ Visualisation Video ](https://www.youtube.com/watch?v=BhaIklnRpjc)
 
 ### Map
-Signup Map: (https://www.google.com/maps/place/52%C2%B040'23.2%22N+8%C2%B033'50.1%22W/@52.67312,-8.563911,14z/data=!4m4!3m3!8m2!3d52.6731199!4d-8.5639113?hl=en&entry=ttu)
+[ Signup Map ](https://www.google.com/maps/place/52%C2%B040'23.2%22N+8%C2%B033'50.1%22W/@52.67312,-8.563911,14z/data=!4m4!3m3!8m2!3d52.6731199!4d-8.5639113?hl=en&entry=ttu)
 
 ### Content & Resources
 The design of the landing page was lead by the Love Running project.
 
-The design of the techniques page was lead by the https://www.calm.com/blog/mind-body-connection#:~:text=Get%20started%20with%20mindfulness%20exercises,truly%20present%20in%20the%20moment. website.
+The design of the techniques page was lead by the [ calm.com ](https://www.calm.com/blog/mind-body-connection#:~:text=Get%20started%20with%20mindfulness%20exercises,truly%20present%20in%20the%20moment) website.
 
-The design of the signup page was lead by the [Beach Yoga Fuerteventura (decant09.github.io)](https://decant09.github.io/beach-yoga-fuerteventura/contact.html) project.
+The design of the signup page was lead by the [ Beach Yoga Fuerteventura ](https://decant09.github.io/beach-yoga-fuerteventura/contact.html) project.
 
-The tab icon was generated using https://favicon.io/
+The tab icon was generated using [ favicon ](https://favicon.io/).
 
-Typography researched on https://fonts.google.com/
+Typography researched on [ google fonts ](https://fonts.google.com/).
 
-All other icons used are from https://fontawesome.com/
+All other icons used are from [ Font Awesome ](https://fontawesome.com/)
 
-Code Institute for course / module content and portfolio project 1 scope.
+[ Code Institute ](https://codeinstitute.net/ie/about-us/?nab=0) for course / module content and portfolio project 1 scope.
 
-Stack Overflow for the solution to the 404 syntax error. https://stackoverflow.com/questions/57423244/manifest-line-1-column-1-syntax-error-on-chrome-browser
+[ Stack Overflow ](https://stackoverflow.com/questions/57423244/manifest-line-1-column-1-syntax-error-on-chrome-browser) for the solution to the 404 syntax error.
 
-W3schools for any queries or difficulties encountered with code concepts in html and css. https://www.w3schools.com/
+[ W3schools ](https://www.w3schools.com/) for any queries or difficulties encountered with code concepts in html and css. 
 
-Flexbox Froggy for understanding the flexbox concept. https://flexboxfroggy.com/
+[ Flexbox Froggy ](https://flexboxfroggy.com/) for understanding the flexbox concept.
 
 ### Readme
 The Body and Mind readme mark down was inspired by the following:
 
-[belfast-auto-repairs/README.md at main · Alan-Bushell/belfast-auto-repairs · GitHub](https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md#testing)
+[Belfast Auto Repairs](https://github.com/Alan-Bushell/belfast-auto-repairs/blob/main/README.md#testing)
 
-[Cross-Stitch-Art/README.md at main · laurakond/Cross-Stitch-Art · GitHub](https://github.com/laurakond/Cross-Stitch-Art/blob/main/README.md)
+[ Cross Stitch Art ](https://github.com/laurakond/Cross-Stitch-Art/blob/main/README.md)
 
 ### Acknowledgements
 
