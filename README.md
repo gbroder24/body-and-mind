@@ -251,6 +251,7 @@ Implement a 404 error page in case there are any bugs that prevent the website o
 + [ Pexels ](https://www.pexels.com/) Images.  
 + [ Image Resizer ](https://imageresizer.com/) to rezize images.  
 + [ Youtube ](https://www.youtube.com/) for embedded videos.
++ [ Stack Edit ](https://stackedit.io/) for writing markdown language.
 
 ## Testing
 Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family and friends) was also executed.
