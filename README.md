@@ -308,7 +308,9 @@ The following test scenarios were executed on various media devices and results 
 | Is the website responsive on desktop device screens.|Pass  |
 
 ## Lighthouse Testing
-All website pages were tested using the Lighthouse tool on a couple of different browsers, Chrome and Edge. The page load was analysed and Lighthouse reports and scores were generated.
+All website pages were tested using the Lighthouse tool on a couple of different browsers, Chrome and Edge. The page load was analysed and Lighthouse reports and scores were generated.  
+
+The Best Practice score for the Techniques page and the Signup page scored 78. This score was due to the use of third party cookies. This score is acceptable because it is out of scope.
 
 ### Google Chrome
 
