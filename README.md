@@ -240,16 +240,16 @@ Implement a 404 error page in case there are any bugs that prevent the website o
 + HTML5 Website Structure.  
 + CSS3 Website Style.  
 + MarkDown Readme.md file  
-+ Balsamiq Wireframes.  
-+ Github Repository and deployment.  
-+ Gitpod IDE.  
-+ Git Version control.  
-+ Fontawesom Icons.  
-+ W3schools HTML / CSS tips.  
-+ Google Fonts Font family.  
-+ Am I Responsive to show website on devices.  
-+ Pexels Images.  
-+ Image Resizer to rezize images.  
++ [ Balsamiq ](https://balsamiq.com/wireframes/?gad_source=1&gclid=EAIaIQobChMI2N-YppndhQMV5pxQBh0uTQgmEAAYASACEgJUvPD_BwE) Wireframes.  
++ [ Github ](https://github.com/about) Repository and deployment.  
++ [ Gitpod ](https://www.gitpod.io/about) IDE.  
++ [ Git ](https://git-scm.com/about) Version control.  
++ [ Fontawesom ](https://fontawesome.com/) Icons.  
++ [ W3schools ](https://www.w3schools.com/) HTML / CSS tips.  
++ [ Google Fonts ](https://fonts.google.com/) Font family.  
++ [ Am I Responsive ](https://ui.dev/amiresponsive) to show website on devices.  
++ [ Pexels ](https://www.pexels.com/) Images.  
++ [ Image Resizer ](https://imageresizer.com/) to rezize images.  
 
 ## Testing
 Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family an friends) was also executed.
