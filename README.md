@@ -85,9 +85,9 @@ It is built to attract business for the client and for the user provides benefit
 
 The target audience of the website is to attract people of any age or gender who may have busy and stressful daily lives who want to distress, improve sleep and better understand their bodies and minds. It also targets people who are at beginners level or that have an interest in body and mind techniques.
 
-## User Stories
+### User Stories
 
-### Client Goals
+#### Client Goals
 
 + I want my business to have an online presence.     
 + I want an easy to navigate website.  
@@ -100,28 +100,28 @@ The target audience of the website is to attract people of any age or gender who
 + I want to inform users with content, imagery and videos.  
 + I want to share my passion.  
 
-### User Goals
+#### User Goals
 + I am a beginner and curious about body and mind improvement techniques.  
 + I want research with techniques through content, imagery and videos to further my interests.  
 + I want to sign up to a class.  
 + I want to contact the client.  
 + I want to navigate the website easily.  
 
-## Wireframes
+### Wireframes
 The wireframe mockups were created on Balsamiq. They show what the website would look like on mobile and destop devices.
 
-### Landing Page
+#### Landing Page
 
 ![mobile-desktop-wireframe](assets/documentation/wireframes/home-page.PNG)
 
-### Techniques Page
+#### Techniques Page
 
 ![mobile-desktop-wireframe](assets/documentation/wireframes/techniques.PNG)
 
-### Signup Page
+#### Signup Page
 ![mobile-desktop-wireframe](assets/documentation/wireframes/signup.PNG)
 
-## Color Palette
+### Color Palette
 
 The following colors were chosen for the website and ensure contrast is achieved in the main parts of the page.
 + #1f1e1e - Eerie Black - Used in the generic body, social media icons, submit and reset button hover effect.  
@@ -135,11 +135,11 @@ The following colors were chosen for the website and ensure contrast is achieved
 + Black  - Used in the submit and reset button text.  
 + Blue - Used in the social media icons hover effect.  
 
-## Font Styles
+### Font Styles
 
 The Sintony font style is the main font style used throughout the website and sans-serif is chosen as the fallback style.
 
-## Accessibility
+### Accessibility
 
 + The website avoids clutter.  
 + The content is structured with semantic tags.  
@@ -250,6 +250,7 @@ Implement a 404 error page in case there are any bugs that prevent the website o
 + [ Am I Responsive ](https://ui.dev/amiresponsive) to show website on devices.  
 + [ Pexels ](https://www.pexels.com/) Images.  
 + [ Image Resizer ](https://imageresizer.com/) to rezize images.  
++ [ Youtube ](https://www.youtube.com/) for embedded videos.
 
 ## Testing
 Test scenarios for the Body and Mind website were created by the Full Stack Software Developer (Gary Broderick). The website was manually tested, validated and results recorded. User testing (by family an friends) was also executed.
@@ -456,5 +457,5 @@ The Body and Mind readme mark down was inspired by the following:
 
 ### Acknowledgements
 
-My Mentor Alan Bushell for providing me with positive and encouraging feedback.
+My Mentor Alan Bushell for providing me with positive and encouraging feedback.  
 My Cohort Facilitator Amy Richardson for addressing any queries i had at weekly Standups.
