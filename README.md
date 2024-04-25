@@ -14,7 +14,7 @@ It is built to attract business for the client and for the user provides benefit
 
 ## Table of Contents
 
-[ UX / UI ](#ux-ui)  
+[ UX UI ](#ux-ui)  
 + [ Target Audience ](#target-audience)  
 + [ User Stories ](#user-stories)  
 	* [ Client Goals ](#client-goals)  
