@@ -27,7 +27,7 @@ It is built to attract business for the client and for the user provides benefit
 + [ Font Styles ](#font-styles)  
 + [ Accessibility ](#accessibility)  
 
-[ List of Features ](#features)    
+[ List of Features ](#list-of-features)    
 + [ Header ](#header)  
 + [ Hero Image ](#hero)  
 + [ The Benefits ](#benefits)  
