@@ -35,13 +35,13 @@ It is built to attract business for the client and for the user provides benefit
 + [ Timetable ](#timetable)  
 + [ Footer ](#footer)  
 
-[ Features Left to Implement ](#features-left)  
-+ [ Techniques Page ](#techniques-page-feat-implement)  
-+ [ Signup Page ](#signup-page-feat-implement)  
+[ Features Left to Implement ](#features-left-to-implement)  
++ [ Techniques Page ](#techniques-page-2)  
++ [ Signup Page ](#signup-page-2)  
 + [ User Account ](#user-account)  
 + [ Error Page ](#error-page)  
 
-[ Tools and Technologies ](#tool-tech)   
+[ Tools and Technologies ](#tools-and-technologies)   
 
 [ Testing ](#testing)  
 + [ Website Links ](#website-links)  
@@ -51,21 +51,21 @@ It is built to attract business for the client and for the user provides benefit
 
 [ Lighthouse Testing ](#lighthouse-testing)    
 + [ Google Chrome ](#google-chrome)  
-	* [ index.html ](#index-chrome)  
-	* [ techniques.html ](#techniques-chrome)  
-	* [ signup.html ](#signup-chrome)  
+	* [ index.html ](#indexhtml)  
+	* [ techniques.html ](#techniqueshtml)  
+	* [ signup.html ](#signuphtml)  
 + [ Microsoft Edge ](#microsoft-edge)  
-	* [ index.html ](#index-edge)  
-	* [ techniques.html ](#techniques-edge)  
-	* [ signup.html ](#signup-edge)  
+	* [ index.html ](#indexhtml-1)  
+	* [ techniques.html ](#techniqueshtml-1)  
+	* [ signup.html ](#signuphtml-1)  
 
- [ HTML Validation ](#html-val)  
-+ [ index.html ](#index-val)  
-+ [ techniques.html ](#techniques-val)  
-+ [ signup.html ](#signup-val)  
+ [ HTML Validation ](#html-validation)  
++ [ index.html ](#indexhtml-2)  
++ [ techniques.html ](#techniqueshtml-2)  
++ [ signup.html ](#signuphtml-2)  
 
-[ CSS Validation ](#css-val)    
-+ [ style.css ](#style-val)  
+[ CSS Validation ](#css-validation)    
++ [ style.css ](#stylecss)  
 
 [ Known Bugs ](#known-bugs)   
 
@@ -75,7 +75,7 @@ It is built to attract business for the client and for the user provides benefit
 + [ Images ](#images)  
 + [ Embedded Videos ](#embedded-videos)  
 + [ Map ](#map)  
-+ [ Content and Resources ](#content-resources)  
++ [ Content and Resources ](#content--resources)  
 + [ Readme ](#readme)  
 + [ Acknowledgements ](#acknowledgements)  
 
