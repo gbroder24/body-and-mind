@@ -5,7 +5,7 @@ It is built to attract business for the client and for the user provides benefit
 
 ### PP1 - Gary Broderick
 
-![am i responsive screenshot](documentation/am-i-responsive.PNG)
+![am i responsive screenshot](documentation/responsive/am-i-responsive.PNG)
 
 ------------------------------------------------------------------------------------
 ## [**Live Site**](https://gbroder24.github.io/body-and-mind/)
