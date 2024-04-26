@@ -37,7 +37,7 @@ It is built to attract business for the client and for the user provides benefit
 + [ Techniques Page ](techniques-page-1)  
 + [ Signup Page ](signup-page-1)  
 
-[ Features Left to Implement ](#features-left-to-implement)  
+[ Future-Features ](#future-features)  
 + [ Techniques Page ](#techniques-page-2)  
 + [ Signup Page ](#signup-page-2)  
 + [ User Account ](#user-account)  
@@ -221,7 +221,7 @@ Alongside the signup form is a map of the clients location for the user to easil
 
 ![signup-image](assets/documentation/features/signup-mobile.PNG)
 
-## Features Left To Implement
+## Future Features
 
 ### Techniques Page
 
@@ -388,14 +388,28 @@ The fix and solution to this bug was to modify the line of code to the following
 
 ## Deployment
 
+### Cloning and Forking
+
++ Download the Gitpod extension for Chrome.  
++ Once extension is installed a green Gitpod button will show up on the Github repo.  
++ Click on the green Gitpod button and it will start up the workspace.  
+
+### Local
+
++ Click on the green Code button in the repo.  
++ Under the HTTPS tab clone using the web URL.  
++ Copy the URL to clipboard and paste in the browser.  
+
+### Remote
+
 This website was deployed using GitHub pages. The steps to deploy are as follows:
 
-1.  Login to GitHub and navigate to the repository page (body-and-mind), click on the repository.
-2.  Once inside the repository, click on the "Settings" tab above the repository title.
-3.  Under "Code and automation" select "Pages" tab on the left side navigation menu.
-4.  In the "Build and Deployment" section (middle of the screen), under "Source" select from the drop-down menu "Deploy 									from a branch".
-5. Under "Branch", select "main" branch and then "root" folder and click "save" button
-6.  The GitHub page site will be deployed.
++ Login to GitHub and navigate to the repository page (body-and-mind), click on the repository.
++ Once inside the repository, click on the "Settings" tab above the repository title.
++ Under "Code and automation" select "Pages" tab on the left side navigation menu.
++ In the "Build and Deployment" section (middle of the screen), under "Source" select from the drop-down menu "Deploy 									from a branch".
++ Under "Branch", select "main" branch and then "root" folder and click "save" button
++ The GitHub page site will be deployed.
 
 It might take a few minutes to generate the "live" website link.
 
