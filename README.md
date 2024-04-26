@@ -71,7 +71,10 @@ It is built to attract business for the client and for the user provides benefit
 
 [ Known Bugs ](#known-bugs)   
 
-[ Deployment](#deployment)  
+[ Deployment](#deployment) 
++ [ Cloning and Forking ](#cloning-and-forking)  
++ [ Local ](#local)  
++ [ Remote ](#remote)  
 
 [ Credits](#credits)  
 + [ Images ](#images)  
