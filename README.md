@@ -5,7 +5,7 @@ It is built to attract business for the client and for the user provides benefit
 
 ### PP1 - Gary Broderick
 
-![am i responsive screenshot](assets/documentation/am-i-responsive.PNG)
+![am i responsive screenshot](documentation/am-i-responsive.PNG)
 
 ------------------------------------------------------------------------------------
 ## [**Live Site**](https://gbroder24.github.io/body-and-mind/)
@@ -117,14 +117,14 @@ The wireframe mockups were created on Balsamiq. They show what the website would
 
 #### Landing Page
 
-![mobile-desktop-wireframe](assets/documentation/wireframes/home-page.PNG)
+![mobile-desktop-wireframe](documentation/wireframes/home-page.PNG)
 
 #### Techniques Page
 
-![mobile-desktop-wireframe](assets/documentation/wireframes/techniques.PNG)
+![mobile-desktop-wireframe](documentation/wireframes/techniques.PNG)
 
 #### Signup Page
-![mobile-desktop-wireframe](assets/documentation/wireframes/signup.PNG)
+![mobile-desktop-wireframe](documentation/wireframes/signup.PNG)
 
 ### Color Palette
 
@@ -165,64 +165,64 @@ A border line is displayed underneath an active page and this feature is indicat
 
 On mobile devices the header includes the logo and a navigation bars icon (burger icon). When the navigation icon is selected a drop-down menu is displayed with a list of navigation links. This is consistent across all the pages.
 
-![header-image](assets/documentation/features/header.PNG)
+![header-image](documentation/features/header.PNG)
 
-![header-mobile-image](assets/documentation/features/header-mobile.PNG)
+![header-mobile-image](documentation/features/header-mobile.PNG)
 
 ### Hero Image
 
 The hero image attracts the user and indicates that body and mind is a calm and relaxing environment. It also informs the user with text overlay of the tag line and the location. There is also a call to action button. When selected it will navigate to the signup form.
 
-![hero-image](assets/documentation/features/hero-image.PNG)
+![hero-image](documentation/features/hero-image.PNG)
 
 ### The Benefits
 
 The benefits section describes the advantages of body and mind classes that the client specializes in. The content is responsive and engages the user, The content is kept short and precise so as not to overload the user with information. An image is also displayed that indicates calmness and relaxation to the user.
 
-![benefits-image](assets/documentation/features/benefits.PNG)
+![benefits-image](documentation/features/benefits.PNG)
 
-![benefits-mobile-image](assets/documentation/features/benefits-mobile.PNG)
+![benefits-mobile-image](documentation/features/benefits-mobile.PNG)
 
 ### Paralax Image
 
 The paralax image is a scrolling feature where the background content is scrolled at a different speed to the foreground content. It displays an image of a body and mind group class with yoga mats.
 
-![paralax-image](assets/documentation/features/paralax.PNG)
+![paralax-image](documentation/features/paralax.PNG)
 
 ### Timetable
 The time table is located below the paralax image and above the footer. It informs the user of the times when the classes commence, the days and the type of class. There is also a background image of the river Shannon which corresponds to the location of the business and Limerick area. It has a tile design. This feature is also responsive.
 
-![timetable-image](assets/documentation/features/timetable.PNG)
+![timetable-image](documentation/features/timetable.PNG)
 
-![timetable-mobile-image](assets/documentation/features/timetable-mobile.PNG)
+![timetable-mobile-image](documentation/features/timetable-mobile.PNG)
 
 ### Footer
 The footer includes social media icons that are links to the clients social media accounts for the user to further inform themselves if interested. The links open in a new tab.
 
-![footer-image](assets/documentation/features/footer.PNG)
+![footer-image](documentation/features/footer.PNG)
 
 ### Techniques Page
 The techniques page gives the user a high level overview of the techniques, practices and the different aspects of body and mind. It provides relaxing and calm images and videos with a box shadow for the user to interact with and inform the users curiosity and interest. This page is also responsive and has a stacked design where the content is stacked on top of each section across various media devices.
 
-![techniques-page-image](assets/documentation/features/technique-mindfull.PNG)
+![techniques-page-image](documentation/features/technique-mindfull.PNG)
 
-![techniques-image](assets/documentation/features/technique-image.PNG)
+![techniques-image](documentation/features/technique-image.PNG)
 
-![techniques-video-image](assets/documentation/features/technique-video.PNG)
+![techniques-video-image](documentation/features/technique-video.PNG)
 
 ### Signup Page
 
 Located underneath the header is an image of a woman relaxing and in a calm state to keep with the theme and flow of the website. Directly below this is a form for the user to book a session, to provide their details and send the client a message or a query. The user can also opt in to a newsletter. The signup form is user friendly and also has a hover effect when the cursor hovers over the input text areas, submit and clear buttons to attract the user to enter their details, submit their details or clear them.
 
-![signup-image](assets/documentation/features/signup-image.PNG)
+![signup-image](documentation/features/signup-image.PNG)
 
-![signup-form-image](assets/documentation/features/signup-form.PNG)
+![signup-form-image](documentation/features/signup-form.PNG)
 
 Alongside the signup form is a map of the clients location for the user to easily locate and access the classes. On mobile the content is displayed in a stacked structure. This page is responsive across various media devices as well.
 
-![signup-map-image](assets/documentation/features/signup-map.PNG)
+![signup-map-image](documentation/features/signup-map.PNG)
 
-![signup-image](assets/documentation/features/signup-mobile.PNG)
+![signup-image](documentation/features/signup-mobile.PNG)
 
 ## Future Features
 
@@ -319,67 +319,67 @@ The Best Practice score for the Techniques page and the Signup page scored 78. T
 
 #### index.html
 
-![chrome-lighthouse-index-image](assets/documentation/lighthouse/chrome/index.PNG)
+![chrome-lighthouse-index-image](documentation/lighthouse/chrome/index.PNG)
 
 #### techniques.html
 
-![chrome-lighthouse-techniques-image](assets/documentation/lighthouse/chrome/techniques.PNG)
+![chrome-lighthouse-techniques-image](documentation/lighthouse/chrome/techniques.PNG)
 
-![chrome-lighthouse-best-practice-techniques-image](assets/documentation/lighthouse/chrome/techniques-best-practice.PNG)
+![chrome-lighthouse-best-practice-techniques-image](documentation/lighthouse/chrome/techniques-best-practice.PNG)
 
 #### signup.html
 
-![chrome-lighthouse-signup-image](assets/documentation/lighthouse/chrome/signup.PNG)
+![chrome-lighthouse-signup-image](documentation/lighthouse/chrome/signup.PNG)
 
-![chrome-lighthouse-best-practice-signup-image](assets/documentation/lighthouse/chrome/signup-best-practice.PNG)
+![chrome-lighthouse-best-practice-signup-image](documentation/lighthouse/chrome/signup-best-practice.PNG)
 
 ### Microsoft Edge
 
 #### index.html
 
-![edge-lighthouse-index-image](assets/documentation/lighthouse/edge/index.PNG)
+![edge-lighthouse-index-image](documentation/lighthouse/edge/index.PNG)
 
 #### techniques.html
 
-![edge-lighthouse-techniques-image](assets/documentation/lighthouse/edge/techniques.PNG)
+![edge-lighthouse-techniques-image](documentation/lighthouse/edge/techniques.PNG)
 
-![edge-lighthouse-best-practice-techniques-image](assets/documentation/lighthouse/edge/techniques-best-practice.PNG)
+![edge-lighthouse-best-practice-techniques-image](documentation/lighthouse/edge/techniques-best-practice.PNG)
 
 #### signup.html
 
-![edge-lighthouse-signup-image](assets/documentation/lighthouse/edge/signup.PNG)
+![edge-lighthouse-signup-image](documentation/lighthouse/edge/signup.PNG)
 
-![edge-lighthouse-best-practice-signup-image](assets/documentation/lighthouse/edge/signup-best-practice.PNG)
+![edge-lighthouse-best-practice-signup-image](documentation/lighthouse/edge/signup-best-practice.PNG)
 
 ## HTML Validation
 All html code was validated using the W3C Markup Validation Service.
 
 ### index.html
 
-![validation-index.html-image](assets/documentation/validation/html/index.PNG)
+![validation-index.html-image](documentation/validation/html/index.PNG)
 
 ### techniques.html
 
-![validation-techniques.html-image](assets/documentation/validation/html/techniques.PNG)
+![validation-techniques.html-image](documentation/validation/html/techniques.PNG)
 
 ### signup.html
 
-![validation-signup.html-image](assets/documentation/validation/html/signup.PNG)
+![validation-signup.html-image](documentation/validation/html/signup.PNG)
 
 ## CSS Validation
 All css code was validated using the W3C CSS Validation Service.
 
 ### style.css
 
-![validation-style.css-image](assets/documentation/validation/css/css.PNG)
+![validation-style.css-image](documentation/validation/css/css.PNG)
 
-![validation-style.css-warning-image](assets/documentation/validation/css/css-warning.PNG)
+![validation-style.css-warning-image](documentation/validation/css/css-warning.PNG)
 
 ## Known Bugs
 
 The following bug was discovered in the index.html file during Lighthouse testing:
 
-![bugs-image](assets/documentation/bugs/404-syntax-error.PNG)
+![bugs-image](documentation/bugs/404-syntax-error.PNG)
 
 The following line of code in the index.html file on Line #17 was causing the error:
 
