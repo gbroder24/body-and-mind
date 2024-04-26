@@ -310,6 +310,10 @@ The following test scenarios were executed on various media devices and results 
 | Is the website responsive on mobile device screens.|Pass  |
 | Is the website responsive on desktop device screens.|Pass  |
 
+![mobile-responsive](documentation/responsive/responsive-small.PNG)
+
+![desktop-responsive](documentation/responsive/responsive-large.PNG)
+
 ## Lighthouse Testing
 All website pages were tested using the Lighthouse tool on a couple of different browsers, Chrome and Edge. The page load was analysed and Lighthouse reports and scores were generated.  
 
